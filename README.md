@@ -1,8 +1,6 @@
-### Hi there 👋
+[![Nate's github stats](https://github-readme-stats.vercel.app/api?username=naterexw)](https://github.com/naterexw/)
 
-[![Nate's github stats](https://github-readme-stats.vercel.app/api?username=naterexw)](https://github.com/naterexw/github-readme-stats)
-
-- 📫 How to reach me: nate@natewelling.com
+📫 How to reach me: nate@natewelling.com
 
 <!--
 **naterexw/naterexw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
